@@ -1,7 +1,7 @@
 package object_oriented.abrastration.model;
 /*
 abrstação é toda a estrutura que possui atributos ou comportamentos(funções) 
-enssenciais para classes filhas com por exemplo a classe BankAccount
+enssenciais para classes filhas como por exemplo a classe BankAccount
 */
 public class BankAccount {
     private int balance;
